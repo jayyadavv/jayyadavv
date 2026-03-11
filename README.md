@@ -1,5 +1,5 @@
 ## Hi there 👋
--
+
 I'm **Jay**, a BTech CSE (AI) student at Bennett University passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
  * 🔭 I’m currently working on improving my programming skills and building_ small projects
