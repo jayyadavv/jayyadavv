@@ -8,4 +8,3 @@ I'm **Jay**, a BTech CSE (AI) student at Bennett University passionate about Art
  * 🤔 I’m looking for help with **advanced DSA concepts and open source contributions**
  * 💬 Ask me about **C++, programming basics, and getting started with coding**
  * 📫 How to reach me: [**LinkedIn (https://www.linkedin.com/in/jay-n-yadav-a086b7377/)**]
- * 😄 Pronouns: **He/Him**
